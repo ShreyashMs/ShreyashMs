@@ -15,8 +15,8 @@
 /></a>
 
 
-- 🔭 I am honing my dev and python skills.
-- 🌱 I’m currently learning <strong>Web3</strong></p> 
+- 🔭 I am polishing my dev and mobile skills.
+- 🌱 I’m currently learning <strong>Nextjs</strong></p> 
 - 👯 I’m looking to collaborate in any Fullstack projects
 - 💬 Ask me About Web development and Mobile App Technolgies.
 - 📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shreyashmahalle010@gmail.com)](mailto:shreyashmahalle010@gmail.com) 
@@ -142,14 +142,7 @@
       height="40"
     />
   </a>
-  <a href="https://redis.io" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg"
-      alt="redis"
-      width="40"
-      height="40"
-    />
-  </a>
+
   <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg"
