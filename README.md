@@ -221,12 +221,6 @@
   />
 </p>
 
-<p>
-  <img
-    align="center"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=shreyashms"
-    alt="shreyashms"
-  />
-</p>
+
 
 <p><strong>Thank You !!!</strong></p>
