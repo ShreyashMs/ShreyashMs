@@ -13,12 +13,13 @@
     data-canonical-src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;pause=1000&amp;width=435&amp;lines=Problem+solver.+Tech+enthusiast."
     style="max-width: 100%"
 /></a>
-- Hi I'm Software Engineer working on **Edtech Ai Platform** - 🌱 I’m currently
-learning **Web3** - 👨‍💻 All of my projects are available at
-[https://portfolio-of-shreyash.vercel.app/](https://portfolio-of-shreyash.vercel.app/)
-- 💬 Ask me about **React, Next, React Native, Web and Mobile Applications** -
-📫 How to reach me **shreyashmahalle010@gmail.com** - ⚡ Fun fact **I work in
-nights...**
+
+Hi I'm Software Engineer working on **Edtech Ai Platform** 
+🌱 I’m currently learning **Web3** 
+👨‍💻 All of my projects are available at [https://portfolio-of-shreyash.vercel.app/](https://portfolio-of-shreyash.vercel.app/)
+💬 Ask me about **React, Next, React Native, Web and Mobile Applications** 
+📫 How to reach me **shreyashmahalle010@gmail.com** 
+⚡ Fun fact **I work at nights...**
 
 
 
