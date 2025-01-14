@@ -224,7 +224,7 @@
 <p>
   <img
     align="center"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=shreyashms&"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=shreyashms"
     alt="shreyashms"
   />
 </p>
