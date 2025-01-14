@@ -15,18 +15,12 @@
 /></a>
 
 
-- Hi I'm Software Engineer working on **Edtech Ai Platform**
-
-- 🌱 I’m currently learning **Web3**
-
-- 👨‍💻 All of my projects are available at [https://portfolio-of-shreyash.vercel.app/](https://portfolio-of-shreyash.vercel.app/)
-
-- 💬 Ask me about **React, Next, React Native, Web and Mobile Applications**
-
-- 📫 How to reach me **shreyashmahalle010@gmail.com**
-
-- ⚡ Fun fact **I work in nights...**
-
+- 🔭 I am honing my dev and python skills.
+- 🌱 I’m currently learning <strong>Web3</strong></p> 
+- 👯 I’m looking to collaborate in any Fullstack projects
+- 💬 Ask me About Web development and Mobile App Technolgies.
+- 📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shreyashmahalle010@gmail.com)](mailto:shreyashmahalle010@gmail.com) 
+- ⚡ I’m a night owl when it comes to work.
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -234,3 +228,5 @@
     alt="shreyashms"
   />
 </p>
+
+<p><strong>Thank You !!!</strong></p>
