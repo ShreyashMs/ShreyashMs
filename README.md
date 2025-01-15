@@ -24,7 +24,7 @@
 
 
 <h3 align="left" bgcolor="white">Languages and Tools:</h3>
-<p align="left">
+<p align="left" bgcolor="white">
   <!-- Programming Languages -->
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img
