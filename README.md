@@ -23,7 +23,7 @@
 - ⚡ I’m a night owl when it comes to work.
 
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left" bgcolor="white">Languages and Tools:</h3>
 <p align="left">
   <!-- Programming Languages -->
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
