@@ -176,6 +176,7 @@
   </a>
 </p>
 
+<hr/>
 <p>
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs?username=ShreyashMs&show_icons=true&locale=en&layout=compact"
