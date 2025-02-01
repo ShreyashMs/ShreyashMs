@@ -15,8 +15,8 @@
 /></a>
 
 
-- 🔭 I am polishing my dev and mobile skills.
-- 🌱 I’m currently learning <strong>Nextjs</strong></p> 
+- 🔭 I am polishing my Dev and Mobile skills.
+- 🌱 I’m currently learning <strong>Nextjs</strong>
 - 👯 I’m looking to collaborate in any Fullstack projects
 - 💬 Ask me About Full Stack Development and Mobile App Technolgies.
 - 📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shreyashmahalle010@gmail.com)](mailto:shreyashmahalle010@gmail.com) 
